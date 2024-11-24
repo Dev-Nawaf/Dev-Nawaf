@@ -13,13 +13,13 @@
 
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 As a Computer Engineer , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML , CSS , C# , Visual Studio Code and Python.
+- 💬 Ask me about my experience with HTML, CSS, SASS, C#, Visual Studio Code and Python.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
 
 ### Connect with Me :
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Nawaf%20IT-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/nawaf-alsayah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
