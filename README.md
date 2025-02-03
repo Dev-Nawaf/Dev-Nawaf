@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Nawaf&show_icons=true&theme=dark" alt="Nawaf's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nawaf&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nawaf&layout=compact&theme=dark" alt="Top Languages" width="40%"/>
 </p>
 
 ### 🏆 &nbsp;GitHub Trophies
