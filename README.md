@@ -5,7 +5,7 @@
 
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer;Always%20learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=24"></a>
 </p> 
 
 - 🏢 I'm a Frontend Developer
