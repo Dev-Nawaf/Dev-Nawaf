@@ -12,10 +12,11 @@
 - 👨‍💻 As a Computer Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with **HTML**, **CSS**, **SASS**, **JavaScript**, **C#**, **Visual Studio Code**, and **Python**.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
-
-### 🌱 &nbsp;Currently Learning
-
-- **React.js** 
+- **React.js**:  
+  - Built reusable components with **JSX**  
+  - State management via **useState**, **useReducer**, and side-effects with **useEffect**  
+  - Performance tuning using **memo**, **useMemo**, and **useCallback** to minimize re-renders  
+  - Created **Custom Hooks** to encapsulate and share business logic 
 
 ### Connect with Me :
 
