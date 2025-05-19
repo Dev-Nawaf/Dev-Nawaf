@@ -8,8 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=24"></a>
 </p> 
 
-- 🏢 I'm a Frontend Developer
-- 👨‍💻 As a Computer Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Junior Frontend Developer
+- 👨‍💻 As a Frontend Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with **JavaScript**, **React.js**, **HTML**, **CSS**, **C#**, and **Python**.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 - **React.js**:  
