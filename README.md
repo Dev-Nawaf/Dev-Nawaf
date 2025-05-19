@@ -10,7 +10,7 @@
 
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 As a Computer Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with **HTML**, **CSS**, **SASS**, **JavaScript**, **C#**, **Visual Studio Code**, and **Python**.
+- 💬 Ask me about my experience with **JavaScript**, **React.js**, **HTML**, **CSS**, **C#**, and **Python**.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 - **React.js**:  
   - Built reusable components with **JSX**  
@@ -26,11 +26,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
